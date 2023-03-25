@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# large data
+wavs/
+*.tar.bz2
+
+# results
+cp_hifigan/
